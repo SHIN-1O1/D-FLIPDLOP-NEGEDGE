@@ -46,7 +46,7 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 ## Developed by: A.SHERWIN INFANO
 RegisterNumber: 24010314
-
+![Screenshot (56)](https://github.com/user-attachments/assets/d257f5d8-7cc0-4351-8e55-8dc7add1c769)
 
 **RTL LOGIC FOR FLIPFLOPS**
 
